@@ -34,6 +34,7 @@ function Thala() {
       <div className="output-container">
         {inputValue.length == 7 ? <Video /> : showOutput}
       </div>
+      <p className="footer-text">Code by Shivam❤️</p>
     </main>
   );
 }
